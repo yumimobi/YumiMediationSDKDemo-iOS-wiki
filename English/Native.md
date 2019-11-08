@@ -1,5 +1,3 @@
-# Native 
-
 ## Create and Load Yumi Native Ads
 ```objective-c
 #import <YumiMediationSDK/YumiMediationNativeAd.h>

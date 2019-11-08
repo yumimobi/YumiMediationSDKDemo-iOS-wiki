@@ -1,4 +1,3 @@
-# Splash
 ## Create and Load Yumi Splash Ads
 
 To ensure splash impression, it is recommended to operate as the followings when App launching.

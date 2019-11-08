@@ -1,5 +1,3 @@
-# Tools and Debugging
-
 ## Mediation Test Suite
 The Yumi Mediation Test Suite allows you to test whether you have correctly configured your application and ad units to be able to display ads from third-party networks via Yumi mediation.
 
