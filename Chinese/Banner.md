@@ -1,5 +1,4 @@
-# Banner 
-
+# 横幅
 ## 初始化及请求横幅
 
 ```objective-c

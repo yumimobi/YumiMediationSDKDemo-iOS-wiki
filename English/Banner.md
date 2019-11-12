@@ -1,5 +1,3 @@
-# Banner 
-
 ## Create and Load Banner Ad View
 
 ```objective-c

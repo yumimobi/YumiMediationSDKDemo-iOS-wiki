@@ -1,4 +1,3 @@
-# Interstitial
 ## Create and load Yumi Interstitial Ad
 
 ```objective-c

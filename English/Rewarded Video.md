@@ -1,5 +1,3 @@
-# Rewarded Video
-
 ## Auto Load Yumi Video Ads
 
 ```objective-c

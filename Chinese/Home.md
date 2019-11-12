@@ -10,7 +10,7 @@
 - [手动接入](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/ImportTheYumiSDK#手动集成)
 
 ## 广告形式
-- [Banner](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Banner)
+- [横幅](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Banner)
 - [插屏](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Interstitial)
 - [激励视频](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/RewardedVideo)
 - [原生广告](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Native)
@@ -21,4 +21,4 @@
 ## [工具和调试](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Debugging)
 - [中介功能测试套件](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Debugging#中介功能测试套件)
 - [测试 ID](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Debugging#Test-ID)
-- [Q&A](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Debugging#接入常见问题)
+- [接入常见问题](https://github.com/yumimobi/YumiMediationSDKDemo-iOS-wiki/wiki/Debugging#接入常见问题)
